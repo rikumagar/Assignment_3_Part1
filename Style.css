@@ -23,7 +23,7 @@ h1 {
   color: darkslategray;
   font-size: 2rem;
   border-bottom: 10px dotted purple;
-  padding-bottom: 5px;/
+  padding-bottom: 5px;
 }
 
 h2 {
@@ -34,7 +34,7 @@ h2 {
 .job-title {
   color: darkslategray;
   font-weight: bold;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
 
 ul {
@@ -42,7 +42,7 @@ ul {
   border: 5px solid purple;
   padding: 30px;
   border-radius: 20px;
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 a {
