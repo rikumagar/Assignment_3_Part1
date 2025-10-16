@@ -1,7 +1,16 @@
+/* Author : Hrigdev Thapa
+Student ID: 100973032
+Date : 2025-10-14
+Purpose:This CSS styles a biography pages text, headings, links, and contact list for a clear and organized layout.
+        It sets colors, spacing, fonts, and hover effects to make the page visually appealing. */
+
+        
+/* Set base background for the page */
 html {
   background-color: white;
 }
 
+/* Set base font size and line height */
 body {
   font: 1.2em / 1.5 system-ui;
 }
